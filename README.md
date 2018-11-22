@@ -1,4 +1,4 @@
-Final Project Plan: Diversity Initiatives amongst Public Four-Year Colleges in the US
+##Final Project Plan: Diversity Initiatives amongst Public Four-Year Colleges in the US
 
 Student Name: Rohit Gupta   
 Email: rgupta91 [at] uw.edu   
