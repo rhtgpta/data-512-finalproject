@@ -23,6 +23,38 @@ The most recent [College Scorecard Dataset](https://ed-public-download.app.cloud
 
 The data is released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/). 
 
+The features considered for the analysis:
+* UNITID (Unit ID for institution)
+* INSTNM (Institution name)
+* CITY
+* STABBR (State postcode) 
+* HIGHDEG (Highest degree awarded)
+* ADM_RATE (Admission rate)
+* SATVR25 (25th percentile of SAT scores at the institution (critical reading))
+* SATVR75 (75th percentile of SAT scores at the institution (critical reading))
+* SATMT25 (25th percentile of SAT scores at the institution (math))
+* SATMT75 (75th percentile of SAT scores at the institution (math))
+* SATWR25 (25th percentile of SAT scores at the institution (writing))
+* SATWR75 (75th percentile of SAT scores at the institution (writing))
+* PCIP10 (Percentage of degrees awarded in Communications Technologies/Technicians And Support Services)
+* PCIP11 (Percentage of degrees awarded in Computer And Information Sciences And Support Services)
+* PCIP14 (Percentage of degrees awarded in Engineering)
+* PCIP15 (Percentage of degrees awarded in Engineering Technologies And Engineering-Related Fields)
+* PCIP26 (Percentage of degrees awarded in Biological And Biomedical Sciences)
+* PCIP27 (Percentage of degrees awarded in Mathematics And Statistics)
+* COSTT4_A (Average cost of attendance (academic year institutions))
+* UGDS (Enrollment of undergraduate certificate/degree-seeking students)
+* UGDS_WHITE (Total share of enrollment of undergraduate degree-seeking students who are white)
+* AVGFACSAL (Average faculty salary)
+* C150_4 (Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion))
+* COMPL_RPY_5YR_RT (Five-year repayment rate for completers)
+* NONCOM_RPY_5YR_RT (Five-year repayment rate for non-completers)
+* GRAD_DEBT_MDN (The median debt for students who have completed)
+* WDRAW_DEBT_MDN (The median debt for students who have not completed)
+* FAMINC (Average family income in real 2015 dollars)
+* MN_EARN_WNE_P10 (Mean earnings of students working and not enrolled 10 years after entry)
+* SD_EARN_WNE_P10 (Standard deviation of earnings of students working and not enrolled 10 years after entry)
+
 ### Caveats
 However, all the information used to populate the College Scorecard Dataset is collected from students who have received a federal financial aid, which is a potential source of bias (skews towards low-income student population). The dataset has a single entry for an entire campus, with no identifiers for "branches" which can skew the results a bit as a lot of the decision parameters can vary between the main campus and the satellites (affects ~8% of students in the database).[4] Moreover, as the earnings are reported for 10 years after graduation, some discrepancies can arise amongst the students who opt for subjects with an extremely long duration of the study (for instance, students studying medicine). The differences in cost of living across states should also ideally be accounted for a more accurate comparison across schools (assuming that graduates have a certain level of preference for the state in which the school is located). There is a lot of data that seems to be missing and/or anonymized, which can prove to be a roadblock for performing the analysis satisfactorily.   
 
