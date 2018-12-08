@@ -63,3 +63,5 @@ However, all the information used to populate the College Scorecard Dataset is c
 [2] https://www.treasury.gov/connect/blog/Pages/A-Comparison-between-the-College-Scorecard-and-Mobility-Report-Cards.aspx   
 [3] https://www.economist.com/graphic-detail/2015/10/29/our-first-ever-college-rankings   
 [4] https://www.brookings.edu/research/using-earnings-data-to-rank-colleges-a-value-added-approach-updated-with-college-scorecard-data/   
+https://learn.scientificprogramming.io/python-k-means-data-clustering-and-finding-of-the-best-k-485f66297c06
+https://github.com/matplotlib/basemap/blob/master/examples/fillstates.py
