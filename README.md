@@ -1,9 +1,9 @@
 ## Final Project Plan: Diversity Initiatives amongst Four-Year Colleges in the US
 
 Student Name: Rohit Gupta   
-Email: rgupta91 [at] uw.edu 
-Course: HCDS 512 at the University of Washington
-Course Wiki: https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)
+Email: rgupta91 [at] uw.edu   
+Course: HCDS 512 at the University of Washington  
+Course Wiki: https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)  
 
 ### Introduction
 [College Scorecard Data](https://collegescorecard.ed.gov/data/) is a rich dataset that enables effective decision-making by students interested in pursuing college in the US. It has a range of important information such as the costs, scores, socio-economic breakdowns, graduation percentages, future earnings, debt measures etc. It was announced as a policy initiative by President Obama in 2013 during a [State of the Union Address](https://obamawhitehouse.archives.gov/the-press-office/2013/02/12/remarks-president-state-union-address).[1] The release of the dataset was an important milestone in ensuring transparency and enabling smarter decision-making on the part of students and their parents/guardians. It can also potentially inform policy decisions as value-addition at the college level is a strong component of social mobility.[2]
