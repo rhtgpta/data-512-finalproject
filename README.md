@@ -2,7 +2,7 @@
 
 Student Name: Rohit Gupta   
 Email: rgupta91 [at] uw.edu   
-Course: HCDS 512 at the University of Washington  
+Course: DATA 512 at the University of Washington  
 Course Wiki: https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)  
 
 ### Introduction
